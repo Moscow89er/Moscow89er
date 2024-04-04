@@ -1,6 +1,6 @@
 # Привет всем, меня зовут Никита 👋
 
-## About Me
+## Обо мне
 Я фронтенд-разработчик из Батуми 🌍.
 
 - 👩‍💻 Более двух лет я активно работаю над развитием своих навыков в области программирования, что привело к ряду значимых достижений, включая разработку успешных проектов. Вы можете ознакомиться с моими работами и опытом использования JavaScript, TypeScript, React, Redux и других ключевых технологий здесь на моем GitHub.
@@ -21,18 +21,20 @@ I'm a frontend developer from Batumi 🌍.
 - 🔍 I am currently actively seeking employment. Here is [my resume](https://disk.yandex.ru/i/kqacd1lOruh3mA).
 
 ## Languages and Tools
-![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
-![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg)
-![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg)
-![Sass](https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg)
-![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg)
-![Node.js](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg)
-![TypeScript](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg)
-![Redux](https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg)
-![PostgreSQL](https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg)
-![Webpack](https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg)
-![Babel](https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg)
-![Jest](https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg)
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="Babel" width="60" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="60" />
+</p>
 
 ## My contacts
 - 📧 Email: [khubaev.n@gmail.com](mailto:khubaev.n@gmail.com)
