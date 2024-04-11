@@ -1,7 +1,6 @@
 # Привет всем, меня зовут Никита 👋
 
 ## Обо мне
-Я фронтенд-разработчик из Батуми 🌍.
 
 - 👩‍💻 Более двух лет я активно работаю над развитием своих навыков в области программирования, что привело к ряду значимых достижений, включая разработку успешных проектов. Вы можете ознакомиться с моими работами и опытом использования JavaScript, TypeScript, React, Redux и других ключевых технологий здесь на моем GitHub.
 - 🚀 Процесс самообразования не только расширил мои технические знания, но и укрепил мои способности решать сложные задачи и эффективно сотрудничать в команде, внося вклад в общий успех.
@@ -13,7 +12,6 @@
 # Hello everyone, my name is Nikita 👋
 
 ## About Me
-I'm a frontend developer from Batumi 🌍.
 
 - 👩‍💻 For over two years, I have been actively working on developing my programming skills, leading to a series of significant achievements, including the development of successful projects. You can review my work and experience with JavaScript, TypeScript, React, Redux, and other key technologies here on my GitHub.
 - 🚀 The self-education process not only expanded my technical knowledge but also strengthened my ability to solve complex problems and effectively collaborate in a team, contributing to our common success.
