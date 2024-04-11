@@ -38,6 +38,11 @@
 
 ---
 
+## My last project
+- [Talk-meet-sync](https://github.com/Moscow89er/talk-meet-sync)
+
+---
+
 ## My contacts
 - 📧 Email: [khubaev.n@gmail.com](mailto:khubaev.n@gmail.com)
 - 💬 Telegram: [Telegram](https://t.me/Nikita_Khubaev)
