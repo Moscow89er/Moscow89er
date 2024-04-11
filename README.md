@@ -14,7 +14,6 @@
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nikita-khubaev)
 
 ---
-## Стэк
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="60" />
