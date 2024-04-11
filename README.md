@@ -5,17 +5,16 @@
 - В поиске команды, где я смогу внести вклад в создание продуктов, которые делают жизнь людей лучше и интереснее.
 - Активно ищу работу. [Резюме на Яндекс.Диск](https://disk.yandex.ru/i/M3ShonnH5e7LOA), [резюме на Google.Drive](https://drive.google.com/file/d/1VZgCRwF5QFsHvgmx0s1omB1JrA_uARAT/view?usp=drive_link).
 
-## Коммерческий проект демонстрирующий мои текущие навыки
+## Коммерческий проект демонстирующий текущие навыки
 - 📆 [Talk-meet-sync](https://github.com/Moscow89er/talk-meet-sync)
 
-## Мои контакты
+## Контакты
 - 📧 Email: [khubaev.n@gmail.com](mailto:khubaev.n@gmail.com)
 - 💬 Telegram: [Telegram](https://t.me/Nikita_Khubaev)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nikita-khubaev)
 
 ---
-
-## Languages and Tools
+## Стэк
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="60" />
