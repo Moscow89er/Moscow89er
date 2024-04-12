@@ -3,11 +3,11 @@
 ## Обо мне / About Me
 - Более двух лет активно работаю над развитием своих навыков в области программирования.
 - В поиске команды, где я смогу внести вклад в создание продуктов, которые делают жизнь людей лучше и интереснее.
-- Активно ищу работу.
+- Активно ищу работу. [Резюме на русс. на Яндекс.Диск](https://disk.yandex.ru/i/ZILi91MafNh2ng), [на Google.Drive](https://drive.google.com/file/d/1YPiO1rCDpQs2Wzx1uNGYbBxL_Qc3es0X/view?usp=sharing).
 ##
 - For over two years, I have been actively working on developing my programming skills.
 - I am looking for a team where I can contribute to creating products that make people's lives better and more interesting.
-- Actively seeking employment.
+- Actively seeking employment. [Resume in engl. on Yandex.Disk](https://disk.yandex.ru/i/ynCPApb0tt9NXg), [on Google Drive](https://drive.google.com/file/d/1k2Qkh4w6mTjp8735J8yMiugKtCzQMu6p/view?usp=sharing).
 
 ## Коммерческий проект демонстирующий текущие навыки / Commercial project demonstrating current skills
 - 📆 [Talk-meet-sync](https://github.com/Moscow89er/talk-meet-sync)
