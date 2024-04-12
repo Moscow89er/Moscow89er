@@ -1,23 +1,18 @@
-# Привет всем, меня зовут Никита!
-## Обо мне
+# Привет всем, меня зовут Никита! / Hello everyone, my name is Nikita!
+
+## Обо мне / About Me
 - Более двух лет активно работаю над развитием своих навыков в области программирования.
 - В поиске команды, где я смогу внести вклад в создание продуктов, которые делают жизнь людей лучше и интереснее.
 - Активно ищу работу. [Резюме на Яндекс.Диск](https://disk.yandex.ru/i/M3ShonnH5e7LOA), [на Google.Drive](https://drive.google.com/file/d/1VZgCRwF5QFsHvgmx0s1omB1JrA_uARAT/view?usp=drive_link).
-
 ---
-
-# Hello everyone, my name is Nikita!
-## About Me
 - For over two years, I have been actively working on developing my programming skills.
 - I am looking for a team where I can contribute to creating products that make people's lives better and more interesting.
 - Actively seeking employment. [Resume on Yandex.Disk](https://disk.yandex.ru/i/M3ShonnH5e7LOA), [on Google Drive](https://drive.google.com/file/d/1VZgCRwF5QFsHvgmx0s1omB1JrA_uARAT/view?usp=drive_link).
 
-## Коммерческий проект демонстирующий текущие навыки 
-## Commercial project demonstrating current skills
+## Коммерческий проект демонстирующий текущие навыки / Commercial project demonstrating current skills
 - 📆 [Talk-meet-sync](https://github.com/Moscow89er/talk-meet-sync)
 
-## Контакты
-## Contacts
+## Контакты / Contacts
 - 📧 Email: [khubaev.n@gmail.com](mailto:khubaev.n@gmail.com)
 - 💬 Telegram: [Telegram](https://t.me/Nikita_Khubaev)
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/nikita-khubaev)
