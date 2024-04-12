@@ -8,10 +8,10 @@
 - For over two years, I have been actively working on developing my programming skills.
 - I am looking for a team where I can contribute to creating products that make people's lives better and more interesting.
 - Actively seeking employment. [Resume on Yandex.Disk](https://disk.yandex.ru/i/M3ShonnH5e7LOA), [on Google Drive](https://drive.google.com/file/d/1VZgCRwF5QFsHvgmx0s1omB1JrA_uARAT/view?usp=drive_link).
-##
+
 ## Коммерческий проект демонстирующий текущие навыки / Commercial project demonstrating current skills
 - 📆 [Talk-meet-sync](https://github.com/Moscow89er/talk-meet-sync)
-##
+
 ## Контакты / Contacts
 - 📧 Email: [khubaev.n@gmail.com](mailto:khubaev.n@gmail.com)
 - 💬 Telegram: [Telegram](https://t.me/Nikita_Khubaev)
