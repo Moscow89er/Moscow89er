@@ -3,11 +3,11 @@
 ## Обо мне / About Me
 - Более двух лет активно работаю над развитием своих навыков в области программирования.
 - В поиске команды, где я смогу внести вклад в создание продуктов, которые делают жизнь людей лучше и интереснее.
-- Активно ищу работу. [Резюме на Русском доступно на Яндекс.Диск](https://disk.yandex.ru/i/LRmP_FPCNECv7A), [на Google.Drive](https://drive.google.com/file/d/1Y7822zmGOMge0cCm1NGVrabUFUY5-Jp7/view?usp=sharing).
+- Активно ищу работу. [Резюме на Русском доступно на Яндекс.Диск](https://disk.yandex.ru/i/BsFv_XyRyT6GLw), [на Google.Drive](https://drive.google.com/file/d/1effagdTVFrYgctOu7Iixe-6bD_OaKCBj/view?usp=sharing).
 ##
 - For over two years, I have been actively working on developing my programming skills.
 - I am looking for a team where I can contribute to creating products that make people's lives better and more interesting.
-- Actively seeking employment. [Resume in English available on Yandex.Disk](https://disk.yandex.ru/i/hvV5sTbsQM44Lg), [on Google Drive](https://drive.google.com/file/d/1hQJrG1ZfXeFSklL_wY7XVwkK1mVRMeE8/view?usp=sharing).
+- Actively seeking employment. [Resume in English available on Yandex.Disk](https://disk.yandex.ru/i/6R2VyyU9wnEUww), [on Google Drive](https://drive.google.com/file/d/12mxwp5S2lIOm-qdMi3vmULRgEE_sjF3n/view?usp=sharing).
 
 ## Коммерческий проект демонстирующий текущие навыки / Commercial project demonstrating current skills
 - 📆 [Talk-meet-sync](https://github.com/Moscow89er/talk-meet-sync)
