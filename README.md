@@ -12,6 +12,9 @@
 ## Коммерческий проект демонстирующий текущие навыки / Commercial project demonstrating current skills
 - 📆 [Talk-meet-sync](https://github.com/Moscow89er/talk-meet-sync)
 
+## Проект демонстирующий текущие навыки в верстке / A project demonstrating current skills in layout design
+- 🏞️ [CSS-natours](https://github.com/Moscow89er/css-natours)
+
 ## Контакты / Contacts
 - 📧 Email: [khubaev.n@gmail.com](mailto:khubaev.n@gmail.com)
 - 💬 Telegram: [Telegram](https://t.me/Nikita_Khubaev)
